@@ -14,5 +14,3 @@ In this workshop you will learn how to setup for and present a Genesys Multiclou
 - Access to GDemo
 - Access to a GDemo Multicloud CX Environment on Demoand (EOD)
 - Fundamental Understanding of Genesys Multicloud CX
-
-Testing
